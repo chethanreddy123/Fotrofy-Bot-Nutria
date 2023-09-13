@@ -1,0 +1,99 @@
+[{
+  "_id": "sarthakmanchanda1011@gmail.com",
+  "profile": {
+    "email": "sarthakmanchanda1011@gmail.com",
+    "family_name": "",
+    "given_name": "sarthak",
+    "country": "INDIA",
+    "name": "sarthak",
+    "login_type": "APPLE",
+    "region": null,
+    "source": "ios",
+    "device": null,
+    "os_version": null,
+    "createdDate": "22-Jul-2023",
+    "isReferral": true,
+    "referralCode": "2023",
+    "createdDateTime": "22-Jul-2023 21:20:00",
+    "updatedDateTime": "22-Jul-2023 21:20:25",
+    "dietPlanType": "weightLoss",
+    "category": "weightLoss",
+    "subCategory": "weightloss",
+    "freePlanExpiryDateTime": "22-Jul-2023 22:02:38",
+    "trialDuaration": 0,
+    "planType": "Freemium"
+  },
+  "demographic": {
+    "age": {
+      "code": "A1",
+      "label": "15 to 18 years",
+      "avg_age": 28
+    },
+    "gender": {
+      "code": "G1",
+      "gender": "Male"
+    },
+    "height": {
+      "value": 68,
+      "unit": "in",
+      "ischecked": true
+    },
+    "weight": {
+      "unit": "kg",
+      "value": 80,
+      "ischecked": true
+    },
+    "bmi": 26.82,
+    "suggestedWeight": 75,
+    "currentWeight": 80,
+    "weightInKg": 80,
+    "heightInCM": 172.72,
+    "category": "Overweight",
+    "updatedDate": "22-Jul-2023",
+    "updatedDateTime": "22-Jul-2023 22:02:16"
+  },
+  "lifeStyle": {
+    "dietPlanName": "weightLoss",
+    "Type": "",
+    "activities": {
+      "code": "AC2",
+      "data": 1.375
+    },
+    "diseases": [
+      "B",
+      "CR"
+    ],
+    "foodType": "NV",
+    "country": "IND",
+    "communities": [
+      "P",
+      "U"
+    ],
+    "carb": 237,
+    "protien": 94,
+    "fat": 63,
+    "fiber": 35,
+    "calories": 1898,
+    "bmr": 1744,
+    "activityCalories": 300,
+    "updatedDate": "22-Jul-2023",
+    "updatedDateTime": "22-Jul-2023 22:02:37",
+    "isCustFound": true,
+    "dietPlanCalories": 500,
+    "prefWorkOutTime": ""
+  },
+  "diet": {
+    "food": [],
+    "drinks": [],
+    "snacks": [],
+    "fruits": [],
+    "dishes": [],
+    "pules": [],
+    "rice": [],
+    "country": "IND",
+    "dateBy": "01-Sep-2023",
+    "suggestedWeight": 75,
+    "updatedDate": "22-Jul-2023",
+    "updatedDateTime": "22-Jul-2023 22:02:37"
+  }
+}]
