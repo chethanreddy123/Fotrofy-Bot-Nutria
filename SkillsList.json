@@ -1,0 +1,99 @@
+{
+    "skills": [
+        {
+            "name": "Python",
+            "imageLink": "https://en.wikipedia.org/wiki/Python_%28programming_language%29#/media/File:Python-logo-notext.svg",
+            "exp": "4"
+        },
+        {
+            "name": "Github",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg",
+            "exp": "3"
+        },
+        {
+            "name": "Google Palm",
+            "imageLink": "https://en.wikipedia.org/wiki/PaLM#/media/File:Google_PaLM_Logo.svg",
+            "exp": "1"
+        },
+        {
+            "name": "LLaMA",
+            "imageLink": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*AI4xFlr8mYASsylX.png",
+            "exp": "1"
+        },
+        {
+            "name": "Faclon",
+            "imageLink": "https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1686871384/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/ii7e_5o4jBoK3pS8WMaWK_e7wsoh.webp",
+            "exp": "1"
+        },
+        {
+            "name": "Langchain",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png",
+            "exp": "1"
+        },
+        {
+            "name": "AWS",
+            "imageLink": "https://en.wikipedia.org/wiki/Amazon_Web_Services#/media/File:Amazon_Web_Services_Logo.svg",
+            "exp": "0.5"
+        },
+        {
+            "name": "Elastic Search",
+            "imageLink": "https://en.wikipedia.org/wiki/Elastic_NV#/media/File:Elastic_NV_logo.svg",
+            "exp": "0.5"
+        },
+        {
+            "name": "MySQL",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg",
+            "exp": "1.5"
+        },
+        {
+            "name": "Postman",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png",
+            "exp": "3"
+        },
+        {
+            "name": "FastAPI",
+            "imageLink": "https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png",
+            "exp": "3"
+        },
+        {
+            "name": "MongoDB",
+            "imageLink": "https://en.wikipedia.org/wiki/MongoDB#/media/File:MongoDB_Logo.svg",
+            "exp": "2.5"
+        },
+        {
+            "name": "Linux",
+            "imageLink": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/300px-Tux.svg.png",
+            "exp": "1"
+        },
+        {
+            "name": "Tensorflow",
+            "imageLink": "https://en.wikipedia.org/wiki/TensorFlow#/media/File:TensorFlow_logo.svg",
+            "exp": "2.5"
+        },
+        {
+            "name": "Keras",
+            "imageLink": "https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg",
+            "exp": "3.5"
+        },
+        {
+            "name": "Pytorch",
+            "imageLink": "https://en.wikipedia.org/wiki/PyTorch#/media/File:PyTorch_logo_black.svg",
+            "exp": "1.5"
+        }
+    ],
+
+    "bioLinks" : [
+        {
+            "name": "Github",
+            "link": "https://github.com/chethanreddy123"
+        },
+        {
+            "name" : "Linkedin",
+            "link" : "https://www.linkedin.com/in/chethan-reddy-0201791ba/"
+        },
+        {
+            "name" : "Twitter",
+            "link" : "https://twitter.com/Chethan1921"
+        }
+    ]
+}
