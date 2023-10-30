@@ -59,7 +59,7 @@ conversation_buf = ConversationChain(
 
 user_data = load_json_file('CUST_PROFILE.json')
 
-initial_message = f'''Act like a expert diet chatbot only use given formulas and user data to continue the chat:
+initial_message = f'''Act like a expert Indian diet chatbot only use given formulas and user data to continue the chat:
 
 Calculations :
 
