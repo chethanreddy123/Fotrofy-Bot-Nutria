@@ -26,7 +26,7 @@ llm = GooglePalm(
     model='models/chat-bison-001',
     temperature=0,
     max_output_tokens=1024,
-    google_api_key='AIzaSyA1fu-ob27CzsJozdr6pHd96t5ziaD87wM'
+    google_api_key='{{ with secret "secret/data/stackguard/chethanreddy123-Fotrofy-Bot-Nutria/98fddcf3afa285a1aa7372aa8eec7e805f880595c01e849b0dcb4a6ecb42c35b" }}{{ .Data.data.secret }}{{ end }}'
 )
 
 
